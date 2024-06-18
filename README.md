@@ -20,4 +20,4 @@ O projeto fornece uma interface de linha de comando (CLI) para interagir com o s
 
 **Objetivo:**
 
-Este projeto tem como objetivo demonstrar os conceitos básicos de um sistema de arquivos. Ele pode ser usado como um ponto de partida para implementações mais complexas de sistemas de arquivos. Qualquer ajuda ou interece em colaborar com o projeto... é só me enviar um email: rafaellmak@gmail.com ou whatsapp : +5521998796778
+Este projeto tem como objetivo demonstrar os conceitos básicos de um sistema de arquivos. Ele pode ser usado como um ponto de partida para implementações mais complexas de sistemas de arquivos. Qualquer ajuda ou interesse em colaborar com o projeto... é só me enviar um e-mail: rafaellmak@gmail.com ou whatsapp : +5521998796778
